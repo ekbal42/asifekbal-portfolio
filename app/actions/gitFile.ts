@@ -1,5 +1,5 @@
 export async function getGitHubFileContent(filename: string) {
-  const apiUrl = `https://api.github.com/repos/ekbal42/PersonalDB/contents/${filename}`;
+  const apiUrl = `https://api.github.com/repos/ekbal42/asifekbal-portfolio/contents/${filename}`;
   const res = await fetch(apiUrl);
   const data = await res.json();
   if (data && data.content) {
