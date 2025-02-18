@@ -20,7 +20,7 @@
     "name": "Taiuun",
     "gitLink": null,
     "imageLink": "https://i.postimg.cc/m2Kn7d1Y/taiuun-job-hunting.png",
-    "liveLink": "N/A", 
+    "liveLink": "#", 
     "tags": ["react", "javascript", "vite", "tailwindcss", "nextjs", "redux"]
   },
   {
@@ -31,12 +31,4 @@
     "liveLink": "https://projectdev2024.vercel.app/", 
     "tags": ["tailwindcss", "react", "vite"]
   },
-  {
-    "id": 4,
-    "name": "Shinabe Design",
-    "gitLink": null,
-    "imageLink": "https://i.postimg.cc/1XtwXj60/tterminal.png",
-    "liveLink": "https://projectdev2024.vercel.app/", 
-    "tags": ["tailwindcss", "react", "vite"]
-  }
 ]
